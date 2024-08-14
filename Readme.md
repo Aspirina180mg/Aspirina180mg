@@ -27,7 +27,7 @@ Soy un apasionado de la tecnología y la optimización de procesos, siempre busc
 ## 📫 Cómo Contactarme
 
 - **Correo Electrónico:** misael.garcia@example.com
-- **LinkedIn:** [Mi Perfil](https://www.linkedin.com/in/misael-garcia)
+- **LinkedIn:** [Mi Perfil](https://www.linkedin.com/in/mgarciat/)
 - **GitHub:** [Mi GitHub](https://github.com/misaelgarcia)
 
 ¡Gracias por visitar mi perfil! 🚀
